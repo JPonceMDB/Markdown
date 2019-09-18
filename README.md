@@ -8,6 +8,4 @@ In the following website you can copy/paste the code you already did in R Markdo
 then Sciweavers will convert your code into image (jpg,png, etc.) what you can insert 
 in for example README.md. See the example below.
 
-http://www.sciweavers.org/download/Tex2Img_1568801874.jpg
-
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=$$\Large&space;\epsilon\epsilon^{t}=(y-X\beta)^{t}(y-X\beta)$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$\Large&space;\epsilon\epsilon^{t}=(y-X\beta)^{t}(y-X\beta)$$" title="$$\Large \epsilon\epsilon^{t}=(y-X\beta)^{t}(y-X\beta)$$" /></a>
