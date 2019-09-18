@@ -8,7 +8,6 @@ In the following website you can copy/paste the code you already did in R Markdo
 then Sciweavers will convert your code into image (jpg,png, etc.) what you can insert 
 in for example README.md. See the example below.
 
-aaaaaaaaaaa
+http://www.sciweavers.org/download/Tex2Img_1568801874.jpg
 
-                      t              t             
-$$Large epsilonepsilon  = (y - Xbeta) (y - Xbeta)$$
+
