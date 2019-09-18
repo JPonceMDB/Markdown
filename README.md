@@ -1,4 +1,4 @@
-# Markdown
+# Markdown code in Github
 
 **How to display math equations already done in R Markdown**
 
